@@ -1,2 +1,2 @@
-# bp-common
-Boilerplate - Signup, Login, Forgot password, T&C, Contuct us
+# webpack-global-styles-and-css-modules
+Webpack configuration global styles and css modules
