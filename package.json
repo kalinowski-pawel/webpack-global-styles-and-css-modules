@@ -1,5 +1,5 @@
 {
-  "name": "Webpack-styles-configuration",
+  "name": "webpack_styles_configuration",
   "version": "1.0.0",
   "description": "Configuration for global styles and css modules",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "webpack"
   ],
   "author": "pablo83",
+  "license": "UNLICENSED",
   "bugs": {
     "url": ""
   },
@@ -37,8 +38,10 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.1",
     "html-webpack-plugin": "^3.2.0",
+    "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"

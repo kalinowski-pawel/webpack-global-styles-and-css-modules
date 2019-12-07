@@ -1,11 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-const App = () =>(
-    <div className="global-class">
-        Something with global styles
-    </div>
-);
+import App from './App'
 
 ReactDOM.render(
     <App/>,
